@@ -1,16 +1,17 @@
-# Hello there! Welcome to my GitHub.
+# Hello there! Welcome to my GitHub.😎
 
 ## Introduction
 
 Hi, I'm Seokjun Song, currently a university student with a focus on AI.
 
-## Tech Stack
+## 📌Tech Stack
 
-- Python
+- Python![image](https://github.com/suwdle/suwdle/assets/133730992/bba0f0c5-d3a3-4b34-9be9-812226fa3163)
+
 - Java
 - HTML
 
-## Tools
+## 📌Tools
 
 - visual Studio
 - Eclipse
@@ -26,5 +27,5 @@ Hi, I'm Seokjun Song, currently a university student with a focus on AI.
 
 ## Contact
 
-- Email: suwdle1917@gmail.com
+- Email: <suwdle1917@gmail.com>
 - instagram: @seokjun_451
