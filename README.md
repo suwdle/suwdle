@@ -23,7 +23,7 @@ Hi, I'm Seokjun Song, currently a university student with a focus on AI.
 
 ## GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Your_GitHub_ID&show_icons=true&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=suwdle&show_icons=true&count_private=true)
 
 ## Contact
 
