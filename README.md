@@ -8,6 +8,9 @@ Department: **AI** & **Software**
 
 I live with 3 cats🐱
 
+if you wanna see their photos, you can contact my instagram.
+
+
 *****
 ## 📌Tech Stack
 
