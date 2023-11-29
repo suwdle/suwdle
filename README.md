@@ -5,6 +5,7 @@
 Hi, I'm Seokjun Song, currently a university student with a focus on AI.
 
 Department: **AI** & **Software**
+
 I live with 3 cats🐱
 
 *****
