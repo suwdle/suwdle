@@ -14,8 +14,8 @@ Hi, I'm Seokjun Song, currently a university student with a focus on AI.
 ## 📌Tools
 
 ![image](https://github.com/suwdle/suwdle/assets/133730992/17eab122-b8b8-414d-8c8b-e2af4b7ff16d)
-- Eclipse
-- Jupyter Notebook
+![eclipse](https://blog.kakaocdn.net/dn/yDaLZ/btqybe6iD7l/UN4AyPQeGQbmPpMteiGBO0/img.png)
+![jupyter notebook](https://jupyter.org/assets/share.png)
 
 ## Projects
 
