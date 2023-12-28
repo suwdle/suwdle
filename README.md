@@ -6,10 +6,7 @@ Hi, I'm Seokjun Song, currently a university student with a focus on AI.
 
 Department: **AI** & **Software**
 
-I live with 3 cats🐱
-
-if you wanna see their photos, you can contact my instagram.
-
+Readme 공사 중....
 
 *****
 
