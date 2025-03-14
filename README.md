@@ -26,6 +26,7 @@ I have a broad interest in various AI technologies, but recently, I have been pa
 
 ## Projects
 [SKHU AI winter2024](https://github.com/SKHU-AI-2024-WINTER)
+
 [KoBo](https://github.com/KB-AI-KoBo)
 
 ## GitHub Stats
