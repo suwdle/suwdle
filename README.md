@@ -25,7 +25,8 @@ I have a broad interest in various AI technologies, but recently, I have been pa
 - ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
 ## Projects
-
+![SKHU AI winter2024](https://github.com/SKHU-AI-2024-WINTER)
+![KoBo](https://github.com/KB-AI-KoBo)
 
 ## GitHub Stats
 
