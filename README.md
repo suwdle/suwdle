@@ -3,7 +3,7 @@
 
 I am Seokjun Song,
 I am currently an undergraduate student majoring in Artificial Intelligence and Software.
-I have a broad interest in various AI technologies, but recently, I have been particularly focused on reinforcement learning and building pipelines for multimodal models.
+I have a broad interest in various AI technologies, Recently, I have been particularly focused on computer vision and building pipelines for AI models.
 
 ---
 
