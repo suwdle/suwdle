@@ -6,6 +6,7 @@ I am currently an undergraduate student majoring in Artificial Intelligence and 
 I have a broad interest in various AI technologies, Recently, I have been particularly focused on computer vision and building pipelines for AI models.
 
 [my github.io](https://suwdle.github.io)
+
 ---
 
 ## 📌 Tech Stack
