@@ -43,9 +43,6 @@ I have a broad interest in various AI technologies, Recently, I have been partic
 
 [KoBo](https://github.com/KB-AI-KoBo)
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suwdle&show_icons=true&count_private=true)
 
 ## Contact
 
